@@ -1,25 +1,20 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: January 10, Thursday
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Worked through the first hald of Applied visual design in FreeCodeCamp. Joined #100daysofCode challenge, and signed up for a udemy course on programming. 
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Thoughts:** I am an absolute beginner and this is all very confusing. Even my typing feels sluggish and inaccurate. I worry about completing anything meaningful and will continue to rely on FreeCodeCamp and the Udemy course. Not sure how to link to work just yet. 
 
 
-### Day 1: June 27, Monday
+### Day 2: January 11, Friday
+
+**Today's Progress**: Finished the applied design section of FreeCodeCamp, moved on to Applied Accessibility Challenges. Each day I hope to increase my general knowledge of coding and programming. Through my Git a Web Developer Job course in Udemy I learned how to code using the command line, sort of, and subsequently downloaded a text editor. 
+
+**Thoughts**:  As I'm doing this without connection to a community the progress is slow going. Figuring out the most basic things, like using Git and a text editor has been challenging. For now I am committed to working at least one hour day and welcome any learning and growth that comes. 
+
+
+### Day 3: January 12, Saturday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
