@@ -2,7 +2,7 @@
 
 ### Day 1: January 10, Thursday
 
-**Today's Progress**: Worked through the first hald of Applied visual design in FreeCodeCamp. Joined #100daysofCode challenge, and signed up for a udemy course on programming. 
+**Today's Progress**: Worked through the first half of Applied visual design in FreeCodeCamp. Joined #100daysofCode challenge, and signed up for a Udemy course on programming. 
 
 **Thoughts:** I am an absolute beginner and this is all very confusing. Even my typing feels sluggish and inaccurate. I worry about completing anything meaningful and will continue to rely on FreeCodeCamp and the Udemy course. Not sure how to link to work just yet. 
 
